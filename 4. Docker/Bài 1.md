@@ -4,7 +4,7 @@
 
 ##### **Câu 1: Thực hiện cài đặt và cấu hình Docker** 
 
-![](Images/Cau 1.png)
+![](Images/../Cau 1.png)
 
 ###### Cài đặt Docker trên máy chủ Ubuntu 
 
