@@ -2,11 +2,7 @@
 
 ##### **Câu 1: Thực hiện cài đặt và cấu hình Docker** 
 
-![](Bài 1.assets/2022-04-03_083701.png)
-
-
-
-![](Bài 1.assets/Diagram-Copy offf Bài 2.png)
+![](Bài 1.assets/Cau 1.png)
 
 ###### Cài đặt Docker trên máy chủ Ubuntu 
 
